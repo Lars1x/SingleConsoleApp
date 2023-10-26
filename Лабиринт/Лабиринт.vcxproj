@@ -145,9 +145,9 @@
     <ClCompile Include="Sort.cpp" />
     <ClCompile Include="Shifr.cpp" />
     <ClCompile Include="OldLabs.cpp" />
-    <ClCompile Include="Классы.cpp" />
-    <ClCompile Include="Лабиринт.cpp" />
-    <ClCompile Include="Основной.cpp" />
+    <ClCompile Include="Classes.cpp" />
+    <ClCompile Include="Labyrinth.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />
